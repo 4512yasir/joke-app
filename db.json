@@ -1,0 +1,150 @@
+{
+    "jokes": [
+      {
+        "id": 259,
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why is Linux safe?",
+        "punchline": "Hackers peak through Windows only."
+      },
+      {
+        "id": 52,
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why do Java programmers hate communism?",
+        "punchline": "They don't want to live in a classless society."
+      },
+      {
+        "id": 45,
+        "category": "Programming",
+        "type": "single",
+        "joke": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\""
+      },
+      {
+        "id": 66,
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What kind of car did Whitney Houston drive?",
+        "punchline": "A Hyundaiiiiiiiiiiii!"
+      },
+      {
+        "id": 176,
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call 4 Mexicans in quicksand?",
+        "punchline": "Quatro Sinko."
+      },
+      {
+        "id": 402,
+        "category": "Dad Jokes",
+        "type": "twopart",
+        "setup": "Why do cows wear bells?",
+        "punchline": "Because their horns don't work!"
+      },
+      {
+        "id": 502,
+        "category": "Dark Humor",
+        "type": "twopart",
+        "setup": "Why did the scarecrow win an award?",
+        "punchline": "Because he was outstanding in his field… unlike me, according to my parents."
+      },
+      {
+        "id": 601,
+        "category": "Animal Jokes",
+        "type": "twopart",
+        "setup": "What do you call a fish that wears a bowtie?",
+        "punchline": "Sofishticated."
+      },
+      {
+        "id": 701,
+        "category": "Knock-Knock Jokes",
+        "type": "twopart",
+        "setup": "Knock knock.",
+        "punchline": "Who’s there? Boo. Boo who? Don't cry, it's just a joke!"
+      },
+      {
+        "id": 801,
+        "category": "One-liner Jokes",
+        "type": "single",
+        "joke": "Parallel lines have so much in common. It’s a shame they’ll never meet."
+      },
+      {
+        "id": 901,
+        "category": "Food Jokes",
+        "type": "twopart",
+        "setup": "Why don’t eggs tell secrets?",
+        "punchline": "Because they might crack up!"
+      },
+      {
+        "id": 1001,
+        "category": "Christmas Jokes",
+        "type": "twopart",
+        "setup": "Why did Santa go to music school?",
+        "punchline": "Because he wanted to improve his wrapping skills!"
+      },
+      {
+        "id": 1101,
+        "category": "School Jokes",
+        "type": "twopart",
+        "setup": "Why did the teacher go to the beach?",
+        "punchline": "Because she wanted to test the waters!"
+      },
+      {
+        "id": 1201,
+        "category": "Relationship Jokes",
+        "type": "twopart",
+        "setup": "Why don’t skeletons ever start relationships?",
+        "punchline": "Because they don’t have the guts!"
+      },
+      {
+        "id": 1202,
+        "category": "Relationship Jokes",
+        "type": "twopart",
+        "setup": "Why did the couple go to therapy?",
+        "punchline": "Because their WiFi connection was stronger than their emotional connection."
+      },
+      {
+        "id": 1301,
+        "category": "Work Jokes",
+        "type": "twopart",
+        "setup": "Why did the employee bring a ladder to work?",
+        "punchline": "Because he wanted to reach the next level!"
+      },
+      {
+        "id": 1302,
+        "category": "Work Jokes",
+        "type": "twopart",
+        "setup": "Why do programmers hate working in open offices?",
+        "punchline": "Because they don’t want to deal with too many bugs!"
+      },
+      {
+        "id": 1401,
+        "category": "Medical Jokes",
+        "type": "twopart",
+        "setup": "Why did the doctor carry a red pen?",
+        "punchline": "In case he needed to draw blood!"
+      },
+      {
+        "id": 1402,
+        "category": "Medical Jokes",
+        "type": "twopart",
+        "setup": "Why did the nurse bring a ladder to work?",
+        "punchline": "Because she heard the job had its ups and downs!"
+      },
+      {
+        "id": 1501,
+        "category": "Tech Jokes",
+        "type": "twopart",
+        "setup": "Why was the smartphone always so tired?",
+        "punchline": "Because it had too many tabs open!"
+      },
+      {
+        "id": 1502,
+        "category": "Tech Jokes",
+        "type": "twopart",
+        "setup": "Why don’t computers ever get hungry?",
+        "punchline": "Because they have enough bytes!"
+      }
+    ]
+  }
+  
