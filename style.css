@@ -39,7 +39,7 @@ button:hover{
     background-color: black;
     color: white;
 }
-.display {
+#display {
      margin-top: 20px;
     padding: 20px;
     width: 80%;
