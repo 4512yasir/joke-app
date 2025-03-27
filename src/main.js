@@ -3,7 +3,10 @@ document.addEventListener("DOMContentLoaded", function() {
     const searchButton = document.getElementById("search");
     const display = document.getElementById("display");
 
- 
+    searchButton.addEventListener("click", function (event) {
+        event.preventDefault(); 
+        console.log(input.value); 
+    })
     
 });
 
