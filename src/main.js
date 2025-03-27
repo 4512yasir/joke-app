@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         `<p>${joke.setup} <br> <strong>${joke.punchline}</strong></p>`}
                     </div>`
                 ).join("");
-                
+                 
             })
             .catch(error => console.error("Error fetching jokes:", error));
     });
