@@ -49,3 +49,21 @@ button:hover{
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
+.joke-card {
+    background: #f8f9fa;
+    border: 2px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.joke-card:hover {
+    transform: scale(1.05);
+}
+
+.joke-card h3 {
+    margin-top: 0;
+    color: #007bff;
+}
